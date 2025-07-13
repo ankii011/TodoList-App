@@ -17,3 +17,6 @@ It allows users to add, complete, and delete tasks, with all data saved in a fil
 ```bash
 javac Task.java TodoApp.java
 java TodoApp
+## 📸 Screenshot
+
+![App Screenshot](Gui.png)
